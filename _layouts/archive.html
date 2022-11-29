@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<style>
+    .h2-scoped {
+        margin: 2rem 0;
+    }
+</style>
+<div class="mn__wrapper">
+    <h2 class="title-h2 h2-scoped">
+        {{ page.title }}
+    </h2>
+    <main class="mn__main">
+        {% for post in page.posts limit: 48 %}
+        <article class="mn__article a-block">
+            <a href="{{ post.url }}" class="a-overlay"></a>
+            <div class="mn__img-wrapper">
+                <img src="{{ post.thumbnail }}" alt="post thumbnail">
+            </div>
+            <h4 class="mn__h3 a-inner">
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </h4>
+        </article>
+        {% endfor %}
+    </main>
+</div>
+<br>

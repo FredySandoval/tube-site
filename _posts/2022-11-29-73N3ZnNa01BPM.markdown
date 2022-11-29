@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Coding Challenge #106: XOR Problem with TensorFlow.js
+category: video
+date: 2022-11-29T02:58:31.913Z
+tags: tensorflow tutorial for beginners js basics example tensor machine learning JavaScript Programming Language programming daniel shiffman coding the train nature of code artificial intelligence xor problem tensorflow.js
+thumbnail: https://i.ytimg.com/vi/N3ZnNa01BPM/hqdefault.jpg
+iframe: https://www.youtube.com/embed/N3ZnNa01BPM
+---

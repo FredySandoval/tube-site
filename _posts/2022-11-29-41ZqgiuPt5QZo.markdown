@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Vue 3 Tutorial for Beginners - FULL COURSE in 3 Hours
+category: video
+date: 2022-11-29T02:58:07.521Z
+tags: vue js tutorial crash course vuejs  beta front end how to build a web app application coding programming developer frontend guide cli project for beginners full beginner
+thumbnail: https://i.ytimg.com/vi/ZqgiuPt5QZo/hqdefault.jpg
+iframe: https://www.youtube.com/embed/ZqgiuPt5QZo
+---

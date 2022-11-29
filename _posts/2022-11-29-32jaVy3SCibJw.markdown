@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Laxxx.js - An Awesome Scroll Animation Library that's Only 2KB!
+category: video
+date: 2022-11-29T02:58:00.822Z
+tags: javascript scroll tutorial animation library laxxx laxxx.js on animate content activated effect using trigger css animations gsap alternative anime web design
+thumbnail: https://i.ytimg.com/vi/jaVy3SCibJw/hqdefault.jpg
+iframe: https://www.youtube.com/embed/jaVy3SCibJw
+---

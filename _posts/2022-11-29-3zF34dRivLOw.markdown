@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Rust Crash Course | Rustlang
+category: video
+date: 2022-11-29T02:57:40.593Z
+tags: rust lang rustlang programming
+thumbnail: https://i.ytimg.com/vi/zF34dRivLOw/hqdefault.jpg
+iframe: https://www.youtube.com/embed/zF34dRivLOw
+---

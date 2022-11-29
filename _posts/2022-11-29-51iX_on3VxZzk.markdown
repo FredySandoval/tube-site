@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Tu primera red neuronal en Python y Tensorflow
+category: video
+date: 2022-11-29T02:58:15.114Z
+tags: inteligencia artificial red neuronal redes neuronales machine learning intelligence neural network networks principiantes cero python tensorflow keras aprendizaje automático automatico
+thumbnail: https://i.ytimg.com/vi/iX_on3VxZzk/hqdefault.jpg
+iframe: https://www.youtube.com/embed/iX_on3VxZzk
+---

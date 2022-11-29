@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    CSS Grid Crash Course 2022
+category: video
+date: 2022-11-29T02:57:39.825Z
+tags: css grid flexbox
+thumbnail: https://i.ytimg.com/vi/0xMQfnTU6oo/hqdefault.jpg
+iframe: https://www.youtube.com/embed/0xMQfnTU6oo
+---

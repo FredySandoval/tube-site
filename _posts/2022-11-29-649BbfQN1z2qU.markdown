@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    MEVN STACK TUTORIAL (MERN STACK KILLER?) // VUE.JS WITH MONGODB, Express, Node AND MEVN CLI
+category: video
+date: 2022-11-29T02:58:25.195Z
+tags: MEVN TUTORIAL mevn stack tutorial mevn-cli mern mean mongo db express vue.js node.js Nuxt.js with MongoDB  MEAN
+thumbnail: https://i.ytimg.com/vi/9BbfQN1z2qU/hqdefault.jpg
+iframe: https://www.youtube.com/embed/9BbfQN1z2qU
+---

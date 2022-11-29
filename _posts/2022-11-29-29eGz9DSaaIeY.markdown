@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    you need to learn Docker RIGHT NOW!! // Docker Containers 101
+category: video
+date: 2022-11-29T02:57:58.532Z
+tags: cbt nuggets ccna study training cisco  comptia linux+ exam information technology linux tutorial raspberry pi projects what is docker software container images learn basics hub
+thumbnail: https://i.ytimg.com/vi/eGz9DS-aIeY/hqdefault.jpg
+iframe: https://www.youtube.com/embed/eGz9DS-aIeY
+---

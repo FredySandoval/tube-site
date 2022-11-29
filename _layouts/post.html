@@ -1,0 +1,66 @@
+---
+layout: default
+---
+<div class="video__wrapper">
+    <div class="vd__container">
+        <h2 class="h2__title">{{ page.title }}</h2>
+        <div class="vd__tags">
+            <ul class="vd__ul">
+                {% for tag in page.tags %}
+                    <li>
+                        <a href="{{ tag | prepend: site.baseurl | prepend: '/tag/' | replace: '//', '/' }}" class="vd__tag">{{tag}}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="vd__content">
+            <div class="vd__player">
+                <iframe src="{{ page.iframe }}" class="vd__iframe" frameborder=0 scrolling=no allowfullscreen=allowfullscreen></iframe>
+            </div>
+            <picture class="vd__ad">
+                <a href="/" id="vd__a-link"></a>
+                <div class="vd__ad-horizontal">
+                    <!-- <img src="/assets/ad2.png" alt="ad"> -->
+                    <img src="{{site.data.header.site_advertisements.horizontal}}" alt="ad">
+                </div>
+                <div class="vd__ad-vertical">
+                    <!-- <img src="/assets/ad1.png" alt="ad"> -->
+                    <img src="{{site.data.header.site_advertisements.vertical}}" alt="ad">
+                </div>
+            </picture>
+
+        </div>
+    </div>
+</div>
+
+<!-- RELATED VIDEOS -->
+<div class="related-videos">
+    <div class="rltd-vds__wrapper">
+        {% if site.related_posts.size >= 1 %}
+            {% for related_post in site.related_posts limit: 40 %}
+                <article class="rltd-vds__article a-block {% if forloop.index > 14 %}rltd-vds__hidden{% endif %}">
+                    <a href="{{ related_post.url }}" class="a-overlay"></a>
+                    <div class="rltd-vds__img-wrapper">
+                        <img src="{{ related_post.thumbnail }}" alt="post thumbnail">
+                    </div>
+                    <h4 class="rltd-vds__h4 a-inner">
+                        <a href="{{ related_post.url }}">{{ related_post.title }}</a>
+                    </h4>
+                </article>
+            {% endfor %}
+        {% endif %}
+    </div>
+    <div class="rltd-vds__show-more-btn">
+        <button class="rltd-vds__btn" onclick="handle_rltd_vds__btn(this)">Show more related videos</button>
+    </div>
+</div>
+<script>
+    function handle_rltd_vds__btn(btn) {
+        const hidden = document.querySelectorAll('.rltd-vds__hidden');
+        hidden.forEach( x => { 
+            x.classList.toggle('rltd-vds__hidden');
+        })
+        btn.classList.toggle('rltd-vds__hidden');
+    }
+</script>
+<!-- END RELATED VIDEOS -->

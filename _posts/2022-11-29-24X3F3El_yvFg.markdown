@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Automatic Deployment With Github Actions
+category: video
+date: 2022-11-29T02:57:54.935Z
+tags: github actions application deployment devops continuous web app
+thumbnail: https://i.ytimg.com/vi/X3F3El_yvFg/hqdefault.jpg
+iframe: https://www.youtube.com/embed/X3F3El_yvFg
+---

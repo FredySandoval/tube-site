@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    How to deploy express.js on Netlify
+category: video
+date: 2022-11-29T02:58:06.787Z
+tags: web development programming coding computers netlify expressjs serverless functions cloud serverless-http netlify-lambda
+thumbnail: https://i.ytimg.com/vi/hQAu0YEIF0g/hqdefault.jpg
+iframe: https://www.youtube.com/embed/hQAu0YEIF0g
+---

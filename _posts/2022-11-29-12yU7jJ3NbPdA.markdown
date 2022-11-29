@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Learn CSS Media Query In 7 Minutes
+category: video
+date: 2022-11-29T02:57:46.962Z
+tags: webdevsimplified css tutorial media queries query explained in width responsive design tips mobile first
+thumbnail: https://i.ytimg.com/vi/yU7jJ3NbPdA/hqdefault.jpg
+iframe: https://www.youtube.com/embed/yU7jJ3NbPdA
+---

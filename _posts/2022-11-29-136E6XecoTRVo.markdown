@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Neural Networks with JavaScript - Full Course using Brain.js
+category: video
+date: 2022-11-29T02:57:47.684Z
+tags: machine learning neural networks javascript simple basic js ai network brain.js brainjs tutorial for beginners scrimba.com
+thumbnail: https://i.ytimg.com/vi/6E6XecoTRVo/hqdefault.jpg
+iframe: https://www.youtube.com/embed/6E6XecoTRVo
+---

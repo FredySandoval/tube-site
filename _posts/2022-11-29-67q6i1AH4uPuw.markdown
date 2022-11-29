@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Blender Animation Tutorial -  UI/UX Animation - How to Animate in Blender
+category: video
+date: 2022-11-29T02:58:27.467Z
+tags: 
+thumbnail: https://i.ytimg.com/vi/q6i1AH4uPuw/hqdefault.jpg
+iframe: https://www.youtube.com/embed/q6i1AH4uPuw
+---

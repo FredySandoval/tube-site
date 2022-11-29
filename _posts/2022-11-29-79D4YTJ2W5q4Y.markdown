@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Why I use Vim in 2022
+category: video
+date: 2022-11-29T02:58:36.553Z
+tags: software vim programming javascript typescript engineering web developing developer cpp programmer humor reactjs js ecmascript  Netflix Engineering Engineer Facebook Amazon Interviews Software vimrc neovim spacevim c++ editor text vscode plugins autocomplete nodejs twitch productivity spacemacs algorithms datastructures Data Structures python bash
+thumbnail: https://i.ytimg.com/vi/D4YTJ2W5q4Y/hqdefault.jpg
+iframe: https://www.youtube.com/embed/D4YTJ2W5q4Y
+---

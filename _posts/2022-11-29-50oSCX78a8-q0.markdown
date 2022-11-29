@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    A Boy And His Atom: The World's Smallest Movie
+category: video
+date: 2022-11-29T02:58:14.436Z
+tags: atomic memory storage data big made with atoms scale new technology innovation computer smallest movie worlds film ibm research stop motion animation video a boy and his atom Guinness world record Tribeca festival scanning tunneling microscope miniature
+thumbnail: https://i.ytimg.com/vi/oSCX78-8-q0/hqdefault.jpg
+iframe: https://www.youtube.com/embed/oSCX78-8-q0
+---

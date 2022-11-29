@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Tutorial: Cartoon head in Blender (A to Z)
+category: video
+date: 2022-11-29T02:58:28.130Z
+tags: Head modeling  Disney Blender Tutorial Topology Texturing Cartoon Pixar Modeling Sculpting Sculpt Retopology Tuto
+thumbnail: https://i.ytimg.com/vi/IgJ-tJvry-c/hqdefault.jpg
+iframe: https://www.youtube.com/embed/IgJ-tJvry-c
+---

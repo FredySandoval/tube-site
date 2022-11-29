@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    How to Sculpt a 3d Character Bust in Blender - Step by Step Easy Walkthrough
+category: video
+date: 2022-11-29T02:57:53.020Z
+tags: Blender Art Character design Sculpt Sculpting  Gamedev Game Development Indie dev Unreal Unity Godot Stylized MarshmammL indie friendly tv
+thumbnail: https://i.ytimg.com/vi/KsDe1V9Dl-0/hqdefault.jpg
+iframe: https://www.youtube.com/embed/KsDe1V9Dl-0
+---

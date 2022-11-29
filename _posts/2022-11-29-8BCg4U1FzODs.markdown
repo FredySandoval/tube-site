@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    TypeScript Crash Course
+category: video
+date: 2022-11-29T02:57:44.224Z
+tags: typescript crash course for beginners tutorial
+thumbnail: https://i.ytimg.com/vi/BCg4U1FzODs/hqdefault.jpg
+iframe: https://www.youtube.com/embed/BCg4U1FzODs
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Connect Python Scripts To Internet With Ngrok
+category: video
+date: 2022-11-29T02:57:50.954Z
+tags: python script online internet socket sockets ngrok tutorial chat tcp localhost connection
+thumbnail: https://i.ytimg.com/vi/hs7GLsHQCPQ/hqdefault.jpg
+iframe: https://www.youtube.com/embed/hs7GLsHQCPQ
+---

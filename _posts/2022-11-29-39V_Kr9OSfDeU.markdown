@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    JavaScript Async Await
+category: video
+date: 2022-11-29T02:58:06.040Z
+tags: webdevsimplified javascript async await js tutorial explained promises vs function simplified easy
+thumbnail: https://i.ytimg.com/vi/V_Kr9OSfDeU/hqdefault.jpg
+iframe: https://www.youtube.com/embed/V_Kr9OSfDeU
+---

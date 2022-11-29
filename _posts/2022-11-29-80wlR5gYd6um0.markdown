@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Mastering the Vim Language
+category: video
+date: 2022-11-29T02:58:37.180Z
+tags: thoughtbot meetup nyc Vim Software
+thumbnail: https://i.ytimg.com/vi/wlR5gYd6um0/hqdefault.jpg
+iframe: https://www.youtube.com/embed/wlR5gYd6um0
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    3D Design Mug Illustration - Blender 2.82 Easy Tutorial
+category: video
+date: 2022-11-29T02:58:45.731Z
+tags: 
+thumbnail: https://i.ytimg.com/vi/mJB6VNnp2Vk/hqdefault.jpg
+iframe: https://www.youtube.com/embed/mJB6VNnp2Vk
+---

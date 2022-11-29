@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    7. JOI Validation Schema to validate request body | Node JS API Authentication
+category: video
+date: 2022-11-29T02:58:24.363Z
+tags: android yourstruly how to do authentication in nodejs jwt token What is a How use tokens refresh blacklist Protect api using auth are Jwt redis what passport js passport.js
+thumbnail: https://i.ytimg.com/vi/u9kxYilQ9l8/hqdefault.jpg
+iframe: https://www.youtube.com/embed/u9kxYilQ9l8
+---

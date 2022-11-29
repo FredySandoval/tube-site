@@ -1,0 +1,29 @@
+<style>
+    .pgntn__span {
+        padding: 10px 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: rgb(129, 129, 129);
+        background-color: var(--btn-background);
+    }
+</style>
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+    <div class="pgntn__wrapper">
+        <ul class="pgntn__ul">
+            {% for page in (2..paginator.total_pages) %}
+                {% if page == paginator.page %}
+                    <li class="pgntn__li">
+                        <span class="pgntn__span">{{ page }}</span>
+                    </li>
+                {% else %}
+                    <li class="pgntn__li">
+                        <a class="pgntn__a" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endif %}

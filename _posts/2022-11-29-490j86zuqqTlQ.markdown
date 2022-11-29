@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Coding Challenge #131: Bouncing DVD Logo
+category: video
+date: 2022-11-29T02:58:13.816Z
+tags: daniel shiffman coding the train challenge creative code javascript programming language programming dvd logo bouncing hits corner animation meme js screensaver
+thumbnail: https://i.ytimg.com/vi/0j86zuqqTlQ/hqdefault.jpg
+iframe: https://www.youtube.com/embed/0j86zuqqTlQ
+---

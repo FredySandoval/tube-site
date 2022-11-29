@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    AM I BECOMING A FRONT END ENGINEER?
+category: video
+date: 2022-11-29T02:57:48.286Z
+tags: software vim programming javascript typescript engineering web developing developer cpp programmer humor reactjs js ecmascript  Netflix Engineering Engineer Facebook Amazon Interviews Software vimrc neovim spacevim c++ editor text vscode plugins autocomplete nodejs twitch productivity spacemacs algorithms datastructures Data Structures python bash
+thumbnail: https://i.ytimg.com/vi/C_4QsUtLhKI/hqdefault.jpg
+iframe: https://www.youtube.com/embed/C_4QsUtLhKI
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Async Await try-catch hell
+category: video
+date: 2022-11-29T02:58:02.204Z
+tags: webdev app development lesson tutorial javascript js shorts
+thumbnail: https://i.ytimg.com/vi/ITogH7lJTyE/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLC8GEV4V7sy9t5Pl52_Ir3Kt2g1KQ
+iframe: https://www.youtube.com/embed/ITogH7lJTyE
+---

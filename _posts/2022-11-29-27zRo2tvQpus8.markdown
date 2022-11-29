@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    TypeScript Setup With Node & Express
+category: video
+date: 2022-11-29T02:57:56.978Z
+tags: typescript node express ts-node
+thumbnail: https://i.ytimg.com/vi/zRo2tvQpus8/hqdefault.jpg
+iframe: https://www.youtube.com/embed/zRo2tvQpus8
+---

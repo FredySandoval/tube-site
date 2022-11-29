@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    7 Ways to write better V-FOR LOOPS
+category: video
+date: 2022-11-29T02:58:00.068Z
+tags: vuejs web development technology
+thumbnail: https://i.ytimg.com/vi/G_nwbIAHW10/hqdefault.jpg
+iframe: https://www.youtube.com/embed/G_nwbIAHW10
+---

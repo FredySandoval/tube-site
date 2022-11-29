@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    XSS attacks
+category: video
+date: 2022-11-29T02:58:34.247Z
+tags: EthicalHacking BugBounty BugBountyTips ethical hacking white hat bug bounty tips
+thumbnail: https://i.ytimg.com/vi/Tf3fEPX6EOI/hqdefault.jpg
+iframe: https://www.youtube.com/embed/Tf3fEPX6EOI
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Coding Challenge #65.1: Binary Search Tree
+category: video
+date: 2022-11-29T02:58:10.656Z
+tags: Programming Language live programming daniel shiffman creative coding challenge tutorial challenges train the binary tree search data structure javascript js computer science intelligence and learning machine
+thumbnail: https://i.ytimg.com/vi/ZNH0MuQ51m4/hqdefault.jpg
+iframe: https://www.youtube.com/embed/ZNH0MuQ51m4
+---

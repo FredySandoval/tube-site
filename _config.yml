@@ -1,0 +1,45 @@
+title: YouTube Collection 
+description: A free videos site
+baseurl: ""
+url: "https://tube.fredy.dev"
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+gems:
+  - jekyll-tagging-related_posts
+
+jekyll-archives:
+  enabled: 
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    tags: '/tag/:name/'
+
+paginate: 48
+paginate_path: "/page:num/"
+
+# Google Analytics
+# example: google_analytics: X-XXXXXXXX
+google_analytics:
+
+exclude:
+  - index.js
+  - links
+  - package-lock.json
+  - package.json
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

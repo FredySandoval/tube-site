@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    3.4: Linear Regression with Gradient Descent - Intelligence and Learning
+category: video
+date: 2022-11-29T02:58:30.385Z
+tags: live programming daniel shiffman creative coding challenge tutorial challenges train the nature of code artificial intelligence itp nyu neural network artist and learning machine art linear regression javascript algorithm math gradient descent
+thumbnail: https://i.ytimg.com/vi/L-Lsfu4ab74/hqdefault.jpg
+iframe: https://www.youtube.com/embed/L-Lsfu4ab74
+---

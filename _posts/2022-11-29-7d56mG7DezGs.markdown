@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    TypeScript Tutorial for Beginners [2022]
+category: video
+date: 2022-11-29T02:57:43.504Z
+tags: typescript tutorial learn for beginners mosh hamedani code with programming web development javascript course crash what is basics ts introduction to
+thumbnail: https://i.ytimg.com/vi/d56mG7DezGs/hqdefault.jpg
+iframe: https://www.youtube.com/embed/d56mG7DezGs
+---

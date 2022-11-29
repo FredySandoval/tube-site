@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    MongoDB in 100 Seconds
+category: video
+date: 2022-11-29T02:58:01.489Z
+tags: webdev app development lesson tutorial  mongodb database sql nosql vs mongo db atlas
+thumbnail: https://i.ytimg.com/vi/-bt_y4Loofg/hqdefault.jpg
+iframe: https://www.youtube.com/embed/-bt_y4Loofg
+---

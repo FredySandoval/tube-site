@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Artificial Intelligence - Mind Field (Ep 4)
+category: video
+date: 2022-11-29T02:58:12.867Z
+tags: Mind Field Michael Stevens Vsauce YouTube Red Original Series Jake Roper Dominic Monaghan Dianna Cowern Rosanna Pansino Ethan Klein Tim DeLaGhetto GloZell
+thumbnail: https://i.ytimg.com/vi/qZXpgf8N6hs/hqdefault.jpg
+iframe: https://www.youtube.com/embed/qZXpgf8N6hs
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Rare but Super Useful HTML tags that will turn you into a web ninja
+category: video
+date: 2022-11-29T02:58:47.708Z
+tags: html  tag tags js javascript css computer science useful ui user interface ux HTML input datalist meter progress video
+thumbnail: https://i.ytimg.com/vi/AryZSCeKU9Y/hqdefault.jpg
+iframe: https://www.youtube.com/embed/AryZSCeKU9Y
+---

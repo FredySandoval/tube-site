@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Open Props CSS Framework (An Introduction)
+category: video
+date: 2022-11-29T02:57:50.299Z
+tags: open props
+thumbnail: https://i.ytimg.com/vi/cq7c3tawEnI/hqdefault.jpg
+iframe: https://www.youtube.com/embed/cq7c3tawEnI
+---

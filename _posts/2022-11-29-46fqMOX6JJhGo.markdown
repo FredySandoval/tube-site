@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers
+category: video
+date: 2022-11-29T02:58:11.520Z
+tags: Docker Containerization Containerisation Tutorial Getting Started With For Beginners Learn Container vs. Virtual Machines Setting Up Installing Desktop CE Images Building Share Image on Hub Dockerfile How to create a docker course
+thumbnail: https://i.ytimg.com/vi/fqMOX6JJhGo/hqdefault.jpg
+iframe: https://www.youtube.com/embed/fqMOX6JJhGo
+---

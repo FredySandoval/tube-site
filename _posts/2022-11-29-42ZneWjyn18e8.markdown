@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Hosting a p5.js sketch with GitHub Pages
+category: video
+date: 2022-11-29T02:58:08.386Z
+tags: github pages web hosting  html css javascript git
+thumbnail: https://i.ytimg.com/vi/ZneWjyn18e8/hqdefault.jpg
+iframe: https://www.youtube.com/embed/ZneWjyn18e8
+---

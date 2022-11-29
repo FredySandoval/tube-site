@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)
+category: video
+date: 2022-11-29T02:57:42.032Z
+tags: vite vue build tool tutorial react evan you rollup vitejs  javascript web developer vuejs js builld vs snowpack webpack development ts typescript ssr reactjs app svelte
+thumbnail: https://i.ytimg.com/vi/LQQ3CR2JTX8/hqdefault.jpg
+iframe: https://www.youtube.com/embed/LQQ3CR2JTX8
+---

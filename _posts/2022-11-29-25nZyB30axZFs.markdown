@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Blender 3.0 Grease Pencil Tutorial - Bakery Shop
+category: video
+date: 2022-11-29T02:57:55.653Z
+tags:  blender grease pencil drawing animation tutorial learn in
+thumbnail: https://i.ytimg.com/vi/nZyB30-xZFs/hqdefault.jpg
+iframe: https://www.youtube.com/embed/nZyB30-xZFs
+---

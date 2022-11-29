@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    You MUST WATCH THIS before installing PYTHON. PLEASE DON'T MAKE this MISTAKE.
+category: video
+date: 2022-11-29T02:58:17.009Z
+tags: learn python installing virtual environments venv version for beginners
+thumbnail: https://i.ytimg.com/vi/28eLP22SMTA/hqdefault.jpg
+iframe: https://www.youtube.com/embed/28eLP22SMTA
+---

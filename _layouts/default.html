@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA" />
+    <title>{{ page.title }}</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+
+    <meta name="theme-color" content="#000" media="(prefers-color-scheme: dark)">
+    <meta name="theme-color" content="#FFF" media="(prefers-color-scheme: light)">
+
+    <script>
+         // This code prevents the “flash of incorrect theme” (FOIT).
+         let themeOverride = localStorage.getItem("theme");
+        if (
+          !themeOverride &&
+          window.matchMedia("(prefers-color-scheme: dark)").matches
+        )
+          themeOverride = "dark";
+        if (!themeOverride) themeOverride = "light";
+        document.documentElement.setAttribute("theme", themeOverride);
+    </script>
+    <noscript>Javascript is disabled which is ok, but some features may not work properly.</noscript>
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    {% include analytics.html %}
+    {% seo %}
+</head>
+<body>
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
+</body>
+</html>

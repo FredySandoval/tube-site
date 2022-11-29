@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Easy Mouth Rig in Blender
+category: video
+date: 2022-11-29T02:57:52.330Z
+tags: blender cg cgi 
+thumbnail: https://i.ytimg.com/vi/6nmT123wVe4/hqdefault.jpg
+iframe: https://www.youtube.com/embed/6nmT123wVe4
+---

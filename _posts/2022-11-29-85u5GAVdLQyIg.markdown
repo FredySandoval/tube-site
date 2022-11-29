@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    10.4: Neural Networks: Multilayer Perceptron Part 1 - The Nature of Code
+category: video
+date: 2022-11-29T02:58:41.161Z
+tags: live programming daniel shiffman creative coding challenge tutorial challenges train the nature of code artificial intelligence itp nyu neural network artist and learning machine perceptron multilayered intro XOR net javascript multilayer
+thumbnail: https://i.ytimg.com/vi/u5GAVdLQyIg/hqdefault.jpg
+iframe: https://www.youtube.com/embed/u5GAVdLQyIg
+---

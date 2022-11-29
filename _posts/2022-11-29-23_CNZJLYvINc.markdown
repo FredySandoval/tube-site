@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Netlify CMS
+category: video
+date: 2022-11-29T02:57:54.292Z
+tags: Netlify Hugo CMS Coding Chris Stayte Programming Website Development
+thumbnail: https://i.ytimg.com/vi/_CNZJLYvINc/hqdefault.jpg
+iframe: https://www.youtube.com/embed/_CNZJLYvINc
+---

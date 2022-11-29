@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    XSS on Google Search - Sanitizing HTML in The Client?
+category: video
+date: 2022-11-29T02:58:03.734Z
+tags: Live Overflow liveoverflow hacking tutorial how to hack exploit xss cross-site scripting html sanitization encoding browser masato  google gws search parser differential javascript mxss mutation dom template div parsing context disabled noscript script regex dompurify
+thumbnail: https://i.ytimg.com/vi/lG7U3fuNw3A/hqdefault.jpg
+iframe: https://www.youtube.com/embed/lG7U3fuNw3A
+---

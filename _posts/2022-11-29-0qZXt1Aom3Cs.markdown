@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Vue JS Crash Course
+category: video
+date: 2022-11-29T02:57:38.406Z
+tags: vue vuejs vue.js tutorial javascript crash course traversy media 
+thumbnail: https://i.ytimg.com/vi/qZXt1Aom3Cs/hqdefault.jpg
+iframe: https://www.youtube.com/embed/qZXt1Aom3Cs
+---

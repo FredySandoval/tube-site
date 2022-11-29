@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    The Stilwell Brain
+category: video
+date: 2022-11-29T02:58:41.809Z
+tags: mindfield edutainment experiments Vsauce exorcism stanford prison sociology futurism technology science learning mind reading
+thumbnail: https://i.ytimg.com/vi/rA5qnZUXcqo/hqdefault.jpg
+iframe: https://www.youtube.com/embed/rA5qnZUXcqo
+---

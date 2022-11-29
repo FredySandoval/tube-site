@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    How to Animate a Complete Scene [Ep.1/5] | Adobe Animate Tutorial
+category: video
+date: 2022-11-29T02:58:50.230Z
+tags: tiptut tip tut adobe creative cloud graphic design designers tutorials lessons tiptalks tipwalks helpful animation animate intro to basic easy concepts process get started flash frame by tweening tween how for beginners in charts character
+thumbnail: https://i.ytimg.com/vi/BlzX5C24n5g/hqdefault.jpg
+iframe: https://www.youtube.com/embed/BlzX5C24n5g
+---

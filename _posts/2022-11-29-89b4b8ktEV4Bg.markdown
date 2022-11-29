@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Hashing Algorithms and Security - Computerphile
+category: video
+date: 2022-11-29T02:58:44.218Z
+tags: computers computerphile hash  security tom scott
+thumbnail: https://i.ytimg.com/vi/b4b8ktEV4Bg/hqdefault.jpg
+iframe: https://www.youtube.com/embed/b4b8ktEV4Bg
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Tutorial: How to Create Robotic Arms in Blender (Part 1)
+category: video
+date: 2022-11-29T02:58:50.933Z
+tags: 
+thumbnail: https://i.ytimg.com/vi/-2HCxy4Kh4E/hqdefault.jpg
+iframe: https://www.youtube.com/embed/-2HCxy4Kh4E
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    The truth about AI and why you should learn it - Computerphile explains
+category: video
+date: 2022-11-29T02:58:38.903Z
+tags: ai artificial intelligence google sentient lamda conversation alive phone call robot chatbot interview conscious engineer self aware terminator movies jobs elon musk robots machine learning  cybersecurity cyber
+thumbnail: https://i.ytimg.com/vi/PH9RQ6Yx75c/hqdefault.jpg
+iframe: https://www.youtube.com/embed/PH9RQ6Yx75c
+---

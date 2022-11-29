@@ -1,0 +1,13 @@
+# recommended 522 x 147
+#  Aspect Ratio 174:49
+site_logo:
+  small:
+    png: small.png
+    webp: /assets/site_logo_small.webp
+  normal:
+    png: normal.png
+    webp: /assets/site_logo.webp
+
+site_advertisements:
+  vertical: /assets/ad1.png
+  horizontal: /assets/ad2.png

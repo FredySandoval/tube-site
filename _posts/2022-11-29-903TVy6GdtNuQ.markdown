@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Svelte Crash Course
+category: video
+date: 2022-11-29T02:58:45.018Z
+tags: svelte sveltejs framework
+thumbnail: https://i.ytimg.com/vi/3TVy6GdtNuQ/hqdefault.jpg
+iframe: https://www.youtube.com/embed/3TVy6GdtNuQ
+---

@@ -1,0 +1,38 @@
+---
+layout: default
+title: The best Tube site
+---
+
+<style>
+</style>
+<div class="tagmap__wrapper">
+    <nav class="tgmp__nav">
+        <ul class="tgmp__ul">
+            {% assign tags = site.tags | sort %}
+            {% for tag in tags  limit:45 %}
+            <!-- <li><a class="tgmp__tag{% if forloop.index <= 5 %}-blue{%endif%}" -->
+            <li><a class="tgmp__tag"
+                    href="/tag/{{ tag | first | slugify }}/">{{tag[0] | replace: '-', ' ' }}</a></li>
+            {% endfor %}
+        </ul>
+    </nav>
+</div>
+
+
+<div class="mn__wrapper">
+    <main class="mn__main">
+        {% for post in paginator.posts %}
+        <article class="mn__article a-block">
+            <a href="{{ post.url }}" class="a-overlay"></a>
+            <div class="mn__img-wrapper">
+                <img src="{{ post.thumbnail }}" alt="post thumbnail">
+            </div>
+            <h4 class="mn__h3 a-inner">
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </h4>
+        </article>
+        {% endfor %}
+    </main>
+</div>
+
+{% include pagination.html %}

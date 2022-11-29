@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Hosting Your Own Website for Free without a Server
+category: video
+date: 2022-11-29T02:58:09.108Z
+tags: chris titus tech Hosting Your Own Website for Free without a Server hosting website web free how to domain tutorial server host make html wordpress xampp github localhost your own hostgator service beginners can i my on computer?
+thumbnail: https://i.ytimg.com/vi/Nz0c4d1lbMk/hqdefault.jpg
+iframe: https://www.youtube.com/embed/Nz0c4d1lbMk
+---

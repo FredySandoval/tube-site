@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Gmail's dumb: Just host your own mail server!
+category: video
+date: 2022-11-29T02:58:09.805Z
+tags: email server mail dovecot easy smtp imap postfix send receive opendkim spf txt cname record aaaa dns gmail thunderbird mutt neomutt google yandex private https ssl certbot  clinton
+thumbnail: https://i.ytimg.com/vi/9zP7qooM4pY/hqdefault.jpg
+iframe: https://www.youtube.com/embed/9zP7qooM4pY
+---

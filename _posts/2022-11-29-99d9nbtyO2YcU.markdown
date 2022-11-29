@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Make Videos Like 3Blue1Brown | Manim
+category: video
+date: 2022-11-29T02:58:51.688Z
+tags: three brown one blue  manim tutorial python library grant sanderson video creation math animation
+thumbnail: https://i.ytimg.com/vi/d9nbtyO2YcU/hqdefault.jpg
+iframe: https://www.youtube.com/embed/d9nbtyO2YcU
+---

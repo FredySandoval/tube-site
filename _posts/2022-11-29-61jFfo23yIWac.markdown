@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Learn Go Programming by Building 11 Projects – Full Course
+category: video
+date: 2022-11-29T02:58:22.847Z
+tags: golang
+thumbnail: https://i.ytimg.com/vi/jFfo23yIWac/hqdefault.jpg
+iframe: https://www.youtube.com/embed/jFfo23yIWac
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Burpsuite Basics (FREE Community Edition)
+category: video
+date: 2022-11-29T02:58:35.143Z
+tags: 
+thumbnail: https://i.ytimg.com/vi/G3hpAeoZ4ek/hqdefault.jpg
+iframe: https://www.youtube.com/embed/G3hpAeoZ4ek
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Getting started with Shopify theme development (from scratch / complete guide)
+category: video
+date: 2022-11-29T02:58:46.540Z
+tags: 
+thumbnail: https://i.ytimg.com/vi/zCDo-l5DJSo/hqdefault.jpg
+iframe: https://www.youtube.com/embed/zCDo-l5DJSo
+---

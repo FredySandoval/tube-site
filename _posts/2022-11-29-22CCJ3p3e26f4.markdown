@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Blender OPENS The Door
+category: video
+date: 2022-11-29T02:57:53.647Z
+tags: blender turorial beginner tutorial scifi create a short film fan
+thumbnail: https://i.ytimg.com/vi/CCJ3p3e26f4/hqdefault.jpg
+iframe: https://www.youtube.com/embed/CCJ3p3e26f4
+---

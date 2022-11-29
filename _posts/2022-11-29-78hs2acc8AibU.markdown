@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    BEGINNER Golang CSV Quiz Game - Gophercises
+category: video
+date: 2022-11-29T02:58:35.946Z
+tags: cybersecurity learn programming coding capture the flag ctf malware analysis dark web how to beginners
+thumbnail: https://i.ytimg.com/vi/hs2acc8AibU/hqdefault.jpg
+iframe: https://www.youtube.com/embed/hs2acc8AibU
+---

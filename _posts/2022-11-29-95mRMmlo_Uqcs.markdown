@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    you need to learn Python RIGHT NOW!! // EP 1
+category: video
+date: 2022-11-29T02:58:48.589Z
+tags: Python python for hackers everyone everybody right now you need to learn beginners tutorial programming how full course cyber security ethical hacking  language crash basics
+thumbnail: https://i.ytimg.com/vi/mRMmlo_Uqcs/hqdefault.jpg
+iframe: https://www.youtube.com/embed/mRMmlo_Uqcs
+---

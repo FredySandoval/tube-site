@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Intro to Vue.js: Build a Todo App
+category: video
+date: 2022-11-29T02:58:29.441Z
+tags: javascript learn web development educational live streaming debug full stack html learning frameworks frontend coding mechanical keyboard programming to code css vscode backend lesson how node.js debugging vuejs Todo to do JavaScript intro Todo app app fundamentals Vue js beginner
+thumbnail: https://i.ytimg.com/vi/-X2hP9pOVss/hqdefault.jpg
+iframe: https://www.youtube.com/embed/-X2hP9pOVss
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Reverse proxy nginx letsencrypt tutorial
+category: video
+date: 2022-11-29T02:58:38.026Z
+tags: reverse proxy nginx letsencrypt setup tutorial  how to ubuntu https localhost ssl lets encrypt
+thumbnail: https://i.ytimg.com/vi/DyXl4c2XN-o/hqdefault.jpg
+iframe: https://www.youtube.com/embed/DyXl4c2XN-o
+---

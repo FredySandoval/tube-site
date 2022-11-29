@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    PocketBase... The Ultimate Side-Hustle Backend?
+category: video
+date: 2022-11-29T02:58:21.449Z
+tags: webdev app development lesson tutorial
+thumbnail: https://i.ytimg.com/vi/Wqy3PBEglXQ/hqdefault.jpg
+iframe: https://www.youtube.com/embed/Wqy3PBEglXQ
+---

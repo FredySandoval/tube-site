@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Adobe Illustrator Tutorial: How to Draw an Astrochimp
+category: video
+date: 2022-11-29T02:57:59.186Z
+tags: Adobe Illustrator Software How-to Chimpanzee Astronaut Chimp Illustration Vector Tutorial Walkthrough Sketch Ink Digital inking Photoshop Monkey Drawing
+thumbnail: https://i.ytimg.com/vi/LvOX9nQgXus/hqdefault.jpg
+iframe: https://www.youtube.com/embed/LvOX9nQgXus
+---

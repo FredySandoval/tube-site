@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Cross-Site Scripting (XSS) Explained
+category: video
+date: 2022-11-29T02:58:19.161Z
+tags: XSS cross site scripting web security xss attacks explained
+thumbnail: https://i.ytimg.com/vi/EoaDgUgS6QA/hqdefault.jpg
+iframe: https://www.youtube.com/embed/EoaDgUgS6QA
+---

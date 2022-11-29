@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    How To Use Material Design Components (Web) In A Svelte App - SvelteJS Material Components Tutorial
+category: video
+date: 2022-11-29T02:57:56.225Z
+tags: Svelte SvelteJS Material Material.io
+thumbnail: https://i.ytimg.com/vi/-6Hy3MHfPhA/hqdefault.jpg
+iframe: https://www.youtube.com/embed/-6Hy3MHfPhA
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Go / Golang Crash Course
+category: video
+date: 2022-11-29T02:58:22.151Z
+tags: go programming golang lang language tutorial
+thumbnail: https://i.ytimg.com/vi/SqrbIlUwR0U/hqdefault.jpg
+iframe: https://www.youtube.com/embed/SqrbIlUwR0U
+---

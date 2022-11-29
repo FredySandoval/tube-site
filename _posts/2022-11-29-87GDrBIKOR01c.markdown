@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Messages For The Future
+category: video
+date: 2022-11-29T02:58:42.486Z
+tags:  apocalypse outer space cosmos carl sagan vsauce voyager goldern record pioneer plaque probe interstellar saturn earth astronomy Aliens Message Moon Technology Industry travel library of babel Planet
+thumbnail: https://i.ytimg.com/vi/GDrBIKOR01c/hqdefault.jpg
+iframe: https://www.youtube.com/embed/GDrBIKOR01c
+---

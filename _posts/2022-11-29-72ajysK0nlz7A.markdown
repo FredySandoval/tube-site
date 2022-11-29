@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    9.6: JavaScript Closure - p5.js Tutorial
+category: video
+date: 2022-11-29T02:58:31.030Z
+tags: when are closures useful javascript closure example explained tutorial in js javascripts shiffman JavaScript Programming Language setInterval creative coding Document Object Model API Tutorial Media Genre settimeout clojure
+thumbnail: https://i.ytimg.com/vi/-jysK0nlz7A/hqdefault.jpg
+iframe: https://www.youtube.com/embed/-jysK0nlz7A
+---

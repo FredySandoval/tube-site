@@ -1,0 +1,10 @@
+---
+layout: post
+title: |
+    Exploring Docker [2] - Docker Compose With Node & MongoDB
+category: video
+date: 2022-11-29T02:58:25.887Z
+tags: docker node mongodb express tutorial devops digital ocean deploy
+thumbnail: https://i.ytimg.com/vi/hP77Rua1E0c/hqdefault.jpg
+iframe: https://www.youtube.com/embed/hP77Rua1E0c
+---
